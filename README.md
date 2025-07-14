@@ -85,3 +85,9 @@ Entity-Relationship Diagram (ERD) of the Athlete Monitoring System, which maps h
 - Attendance with Location – Records where attendance was made.
 - Academic Monitoring – Track grades and academic requirements.
 - Role-Based Access – Each user sees only what they need (coach, athlete, etc.).
+
+
+### Interface Requirements
+- Mobile and desktop responsive design 
+- Easy-to-use design for all types of users
+- Data visualization for analytics
