@@ -71,3 +71,17 @@ Entity-Relationship Diagram (ERD) of the Athlete Monitoring System, which maps h
 - Internet connection required
 - Local campus use only
 - No financial, ticketing, or sponsorship modules
+
+
+## Specific Requirements
+### System Features
+- Secure login and role-based access
+- Athlete Registration – Add and manage athlete profiles.
+- Training & Game Schedule – Coaches can set training and game dates.
+- Practice & Game Tracking – Record attendance and performance.
+- Training Compliance – Check if athletes are attending required practices.
+- Document Scanner (OCR) – Upload and scan documents easily.
+- Injury Tracking (Mobile App) – Track athlete injuries and recovery.
+- Attendance with Location – Records where attendance was made.
+- Academic Monitoring – Track grades and academic requirements.
+- Role-Based Access – Each user sees only what they need (coach, athlete, etc.).
