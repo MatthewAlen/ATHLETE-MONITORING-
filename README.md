@@ -28,3 +28,9 @@ The platform allows:
 - **OCR**: Optical Character Recognition
 - **PU**: Perceived Usefulness
 - **PEU**: Perceived Ease of Use
+
+## Overall Description
+
+### System Architecture
+<img width="1011" height="678" alt="image" src="https://github.com/user-attachments/assets/984d9fbc-c2da-4d7a-b7ac-35d6309cbec9" />
+The BatStateU Athlete Monitoring System is used by administrators, athletes, coaches through both desktop and mobile devices. All data is stored in one central server, allowing users to easily access and update training, performance, and health records. This setup helps track athlete progress better, supports quick decisions, and makes managing the sports program easier.
