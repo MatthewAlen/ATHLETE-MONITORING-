@@ -20,3 +20,11 @@ The platform allows:
 - Attendance Location Tracking
 - Academic compliance monitoring
 - Role-based access for athletes, coaches, admins
+
+### Definitions, Acronyms, and Abbreviations
+- **AMS**: Athlete Monitoring System
+- **CHED**: Commission on Higher Education
+- **OSDP**: Office of Sports Development Program
+- **OCR**: Optical Character Recognition
+- **PU**: Perceived Usefulness
+- **PEU**: Perceived Ease of Use
