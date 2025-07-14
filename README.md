@@ -34,3 +34,13 @@ The platform allows:
 ### System Architecture
 <img width="1011" height="678" alt="image" src="https://github.com/user-attachments/assets/984d9fbc-c2da-4d7a-b7ac-35d6309cbec9" />
 The BatStateU Athlete Monitoring System is used by administrators, athletes, coaches through both desktop and mobile devices. All data is stored in one central server, allowing users to easily access and update training, performance, and health records. This setup helps track athlete progress better, supports quick decisions, and makes managing the sports program easier.
+
+### Software Perspective & Functions
+The BatStateU ARASOF Athlete Monitoring System is a web-based and mobile-accessible platform developed to streamline the management of athlete data within the university’s sports programs. It follows a modular, role-based structure, where different user types (athletes, coaches, and administrators) access the system with specific permissions based on their roles.
+
+The system is developed using the following technology stack:
+- React.js and Bootstrap for a clean and mobile-friendly user interface.
+- PHP (Laravel) for handling system processes and user logins.
+- MySQL for storing athlete records, training logs, and medical data.
+- XAMPP for running the system during development.
+
