@@ -7,7 +7,7 @@
 
 ## Introduction / Summary
 ###
-Athlete monitoring at Batangas State University is still done manually, which makes it hard to track performance and ensure athletes follow requirements. Without a central system, communication between coaches and school staff is slow, causing delays and messy records. This study suggests creating a web-based and mobile application system to make data tracking easier, faster, and more useful for improving athlete performance and managing sports programs better.
+Athlete monitoring is important in sports to keep athletes performing well, avoid injuries, and meet training and academic requirements, but many schools still use manual methods like paper and spreadsheets, causing delays and poor communication. At Batangas State University, tracking athlete performance, health, and compliance is still manual, leading to late training changes, inconsistent records, and weak coordination between coaches and staff. To solve these problems, this study proposes the BatStateU Athlete Monitoring System—a centralized, automated, and web-based platform that uses real-time data, digital records, and performance analytics to improve athlete tracking, training, and overall sports management.
 
 ### Scope
 The platform allows:
